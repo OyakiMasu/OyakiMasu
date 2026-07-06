@@ -26,12 +26,15 @@ I am currently pursuing my BSc in Computer Games Development at APU, specializin
 **3D Art & Tech Art** <br>
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+**Texturing & Post-Processing** <br>
 ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-%238DCA24.svg?style=for-the-badge&logo=adobe&logoColor=black)
 ![Marmoset Toolbag](https://img.shields.io/badge/Marmoset%20Toolbag-%231E1E1E.svg?style=for-the-badge)
-    
----
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/after%20effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=ee222a)
 
-### 📊 GitHub Stats
+### ⚡ Current Status
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OyakiMasu&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaki's GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=37A5CC&vCenter=true&lines=Currently+optimizing+3D+assets+in+Unity...;Developing+a+dynamic+2D+Boss+Rush...;Sharpening+C%23+programming+logic...;Prepping+for+SIGGRAPH+2026!" alt="Typing SVG" />
 </div>
