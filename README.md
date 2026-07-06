@@ -5,7 +5,7 @@
 I am currently pursuing my BSc in Computer Games Development at APU, specializing in bridging the gap between art and code. My core focus is on real-time rendering, shader development, and performance optimization. Currently, I am sharpening my C# programming logic and engineering efficient asset integration pipelines to push the visual boundaries of interactive projects.
 
 <div align="center">
-  <a href="YOUR_ARTSTATION_LINK_HERE">
+  <a href="(https://www.artstation.com/oyakimasu)">
     <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
   </a>
   <a href="https://oya-masu.itch.io/">
@@ -27,10 +27,9 @@ I am currently pursuing my BSc in Computer Games Development at APU, specializin
 **3D Art & Tech Art** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="45" alt="Blender" /> &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/autodesk/37A5CC" width="45" alt="3ds Max" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ZBrush-%23404040.svg?style=for-the-badge" alt="ZBrush" />
 <br><br>
 
-**Texturing & Post-Processing** <br>
+**Texturing & Rendering(Post-Processing)** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" alt="Photoshop" /> &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="45" alt="After Effects" /> &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/krita/38AEEA" width="45" alt="Krita" /> &nbsp;&nbsp;
