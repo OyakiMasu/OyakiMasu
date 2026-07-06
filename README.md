@@ -4,24 +4,39 @@
 
 I am currently pursuing my BSc in Computer Games Development at APU, specializing in bridging the gap between art and code. My core focus is on real-time rendering, shader development, and performance optimization. Currently, I am sharpening my C# programming logic and engineering efficient asset integration pipelines to push the visual boundaries of interactive projects.
 
-[![ArtStation Profile](https://img.shields.io/badge/ARTSTATION_PROFILE-21759b?style=for-the-badge&logo=artstation&logoColor=white)](YOUR_ARTSTATION_LINK_HERE)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://oya-masu.itch.io/)
+<div align="center">
+  <a href="YOUR_ARTSTATION_LINK_HERE">
+    <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
+  </a>
+  <a href="https://oya-masu.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>
+</div>
 
 ---
 
-### 🤖 Languages, Libraries and Tools
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/csharp/239120" width="40" height="40" alt="C#" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="40" height="40" alt="Unity" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/unrealengine/FFFFFF" width="40" height="40" alt="Unreal" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" height="40" alt="Blender" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/autodesk/FFFFFF" width="40" height="40" alt="3ds Max" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" height="40" alt="Photoshop" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="40" height="40" alt="After Effects" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/krita/38AEEA" width="40" height="40" alt="Krita" />
-</p>
+**Programming & Engines** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" alt="C#" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45" alt="Unity" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45" alt="Unreal" />
+<br><br>
+
+**3D Art & Tech Art** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="45" alt="Blender" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/autodesk/37A5CC" width="45" alt="3ds Max" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ZBrush-%23404040.svg?style=for-the-badge" alt="ZBrush" />
+<br><br>
+
+**Texturing & Post-Processing** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" alt="Photoshop" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="45" alt="After Effects" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/krita/38AEEA" width="45" alt="Krita" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Substance_Painter-%238DCA24.svg?style=for-the-badge&logo=adobe&logoColor=black" alt="Substance Painter" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Marmoset_Toolbag-%231E1E1E.svg?style=for-the-badge" alt="Marmoset" />
+<br><br>
 
 ---
 
