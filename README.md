@@ -30,11 +30,11 @@ I am currently pursuing my BSc in Computer Games Development at APU, specializin
 <br><br>
 
 **Texturing & Post-Processing** <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" alt="Photoshop" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/krita/38AEEA" width="45" alt="Krita" /> &nbsp;&nbsp;
-<img src="adobe-after-effects-software-icon_934768-18.jpg" width="45" alt="After Effects" /> &nbsp;&nbsp;
-<img src="substance-logo.png" width="45" alt="Substance Painter" /> &nbsp;&nbsp;
-<img src="marmoset-logo.png" width="45" alt="Marmoset" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" style="margin:0 10px 0 10px;" alt="Photoshop" /> 
+<img src="https://cdn.simpleicons.org/krita/38AEEA" width="40" style="margin:0 10px 0 10px;" alt="Krita" /> 
+<img src="PASTE_AFTER_EFFECTS_LINK_HERE" width="40" style="margin:0 10px 0 10px;" alt="After Effects" /> 
+<img src="PASTE_SUBSTANCE_LINK_HERE" width="40" style="margin:0 10px 0 10px;" alt="Substance Painter" /> 
+<img src="PASTE_MARMOSET_LINK_HERE" width="40" style="margin:0 10px 0 10px;" alt="Marmoset" />
 <br><br>
 
 ---
