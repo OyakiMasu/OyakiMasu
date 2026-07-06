@@ -5,7 +5,7 @@
 I am currently pursuing my BSc in Computer Games Development at APU, specializing in bridging the gap between art and code. My core focus is on real-time rendering, shader development, and performance optimization. Currently, I am sharpening my C# programming logic and engineering efficient asset integration pipelines to push the visual boundaries of interactive projects.
 
 <div align="center">
-  <a href="YOUR_ARTSTATION_LINK_HERE">
+  <a href="(https://www.artstation.com/oyakimasu)">
     <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
   </a>
   <a href="https://oya-masu.itch.io/">
