@@ -26,16 +26,15 @@ I am currently pursuing my BSc in Computer Games Development at APU, specializin
 
 **3D Art & Tech Art** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="45" alt="Blender" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/autodesk/37A5CC" width="45" alt="3ds Max" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ZBrush-%23404040.svg?style=for-the-badge" alt="ZBrush" />
+<img src="https://cdn.simpleicons.org/autodesk/37A5CC" width="45" alt="3ds Max" /> 
 <br><br>
 
 **Texturing & Post-Processing** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" alt="Photoshop" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FE" width="45" alt="After Effects" /> &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/krita/38AEEA" width="45" alt="Krita" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Substance_Painter-%238DCA24.svg?style=for-the-badge&logo=adobe&logoColor=black" alt="Substance Painter" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Marmoset_Toolbag-%231E1E1E.svg?style=for-the-badge" alt="Marmoset" />
+<img src="adobe-after-effects-software-icon_934768-18.jpg" width="45" alt="After Effects" /> &nbsp;&nbsp;
+<img src="substance-logo.png" width="45" alt="Substance Painter" /> &nbsp;&nbsp;
+<img src="marmoset-logo.png" width="45" alt="Marmoset" />
 <br><br>
 
 ---
