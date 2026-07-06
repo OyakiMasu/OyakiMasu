@@ -18,23 +18,23 @@ I am currently pursuing my BSc in Computer Games Development at APU, specializin
 ### 🛠️ Tech Stack & Tools
 
 **Programming & Engines** <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" alt="C#" /> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45" alt="Unity" /> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45" alt="Unreal" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" style="margin: 0 10px 0 10px;" alt="C#" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" style="margin: 0 10px 0 10px;" alt="Python" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" style="margin: 0 10px 0 10px;" alt="Unity" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" style="margin: 0 10px 0 10px;" alt="Unreal" />
 <br><br>
 
 **3D Art & Tech Art** <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="45" alt="Blender" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/autodesk/37A5CC" width="45" alt="3ds Max" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" style="margin: 0 10px 0 10px;" alt="Blender" /> 
+<img src="https://cdn.simpleicons.org/autodesk/37A5CC" width="40" style="margin: 0 10px 0 10px;" alt="3ds Max" /> 
 <br><br>
 
 **Texturing & Post-Processing** <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" style="margin:0 10px 0 10px;" alt="Photoshop" /> 
-<img src="https://cdn.simpleicons.org/krita/38AEEA" width="40" style="margin:0 10px 0 10px;" alt="Krita" /> 
-<img src="adobe-after-effects-software-icon_934768-18.jpg" width="40" style="margin:0 10px 0 10px;" alt="After Effects" /> 
-<img src="substance-logo.png" width="40" style="margin:0 10px 0 10px;" alt="Substance Painter" /> 
-<img src="marmoset-logo.png" width="40" style="margin:0 10px 0 10px;" alt="Marmoset" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" style="margin: 0 10px 0 10px;" alt="Photoshop" /> 
+<img src="https://cdn.simpleicons.org/krita/38AEEA" width="40" style="margin: 0 10px 0 10px;" alt="Krita" /> 
+<img src="adobe-after-effects-software-icon_934768-18.jpg" width="40" style="margin: 0 10px 0 10px;" alt="After Effects" /> 
+<img src="substance-logo.png" width="40" style="margin: 0 10px 0 10px;" alt="Substance Painter" /> 
+<img src="marmoset-logo.png" width="40" style="margin: 0 10px 0 10px;" alt="Marmoset" />
 <br><br>
 
 ---
